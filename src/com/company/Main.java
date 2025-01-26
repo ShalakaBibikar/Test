@@ -7,7 +7,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Addition operation");
-
+//COMMENT
         //int num1 = 5;
        // int num2 = 6;
        // int num3 = 5;
